@@ -663,7 +663,10 @@
     <eLabel name="" position="0,2" size="66,65" font="icomoon; 44" text="" transparent="1" valign="center" halign="center" />
     <eLabel backgroundGradient="igsd,igsl,igsd,vertical" cornerRadius="30" position="0,0" size="704,70" zPosition="-99" />
   </screen>
+
   <include filename="skin_templates.xml" />
+  <include filename="skin_sf.xml" />
+
   <screen name="ChannelSelectionDefault" label="Default" base="ChannelSelection" position="fill" size="1920,1080" title="Channel Selection" flags="wfNoBorder" backgroundColor="transparent">
     <panel name="newchannellist" />
     <widget name="list" position="36,94" size="890,900" serviceNumberFont="Regular;30" serviceNameFont="Regular;30" serviceInfoFont="Regular;28" foregroundColor="white" colorServiceDescription="mint" colorServiceDescriptionSelected="white" colorServiceStreamed="green" foregroundColorServiceNotAvail="#444444" zPosition="4" transparent="1" progressbarBorderWidth="1" scrollbarMode="showAlways" scrollbarForegroundColor="mcolor5" scrollbarBackgroundColor="black" scrollbarBorderColor="mcolor2" scrollbarWidth="10" scrollbarBorderWidth="1" scrollbarRadius="5" backgroundColorMarked="#00131a1d" foregroundColorSelected="yellow" itemGradientSelected="mcolor6,mcolor5,mcolor6,vertical" itemCornerRadius="10" backgroundColor="#30000000" itemHeight="50" />

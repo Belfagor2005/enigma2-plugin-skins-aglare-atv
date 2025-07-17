@@ -1,5 +1,7 @@
 
   <include filename="skin_templates.xml" />
+  <include filename="skin_sf.xml" />
+
   <screen name="ChannelSelectionDefault" label="Default" base="ChannelSelection" position="fill" size="1920,1080" title="Channel Selection" flags="wfNoBorder" backgroundColor="transparent">
     <panel name="newchannellist" />
     <widget name="list" position="36,94" size="890,900" serviceNumberFont="Regular;30" serviceNameFont="Regular;30" serviceInfoFont="Regular;28" foregroundColor="white" colorServiceDescription="mint" colorServiceDescriptionSelected="white" colorServiceStreamed="green" foregroundColorServiceNotAvail="#444444" zPosition="4" transparent="1" progressbarBorderWidth="1" scrollbarMode="showAlways" scrollbarForegroundColor="mcolor5" scrollbarBackgroundColor="black" scrollbarBorderColor="mcolor2" scrollbarWidth="10" scrollbarBorderWidth="1" scrollbarRadius="5" backgroundColorMarked="#00131a1d" foregroundColorSelected="yellow" itemGradientSelected="mcolor6,mcolor5,mcolor6,vertical" itemCornerRadius="10" backgroundColor="#30000000" itemHeight="50" />
@@ -1291,16 +1293,16 @@ MultiContentEntryPixmap(pos = (20,6), size = (60,40), png = 2), # index 2 is the
     <panel name="ScreenTemplateAllColorButtons_menu" />
     <panel name="configlist45" />
   </screen>
-<screen name="MoviePlayer" position="center,center" size="1920,1080" title="InfoBar" backgroundColor="transparent" flags="wfNoBorder">
-  <panel name="mediaplayertemp" />
-  <widget name="state" position="center,center" size="0,0" font="Regular;120" halign="center" foregroundColor="black" borderColor="white" borderWidth="3" backgroundColor="background" transparent="1" zPosition="2" />
-  <widget name="eventname" position="0,0" size="0,0" font="Regular;18" halign="center" foregroundColor="white" backgroundColor="background" transparent="1" zPosition="2" />
-  <widget name="speed" position="0,0" size="0,0" font="Regular;20" halign="left" foregroundColor="white" backgroundColor="background" transparent="1" zPosition="1" />
-  <widget name="statusicon" alphatest="blend" pixmaps="icons/ico_mp_play.png,icons/ico_mp_pause.png,icons/ico_mp_stop.png,icons/ico_mp_rewind.png,icons/ico_mp_forward.png" position="29,862" size="24,24" zPosition="5" transparent="1" />
-  <widget name="key_green" position="0,1100" size="0,0" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="white" backgroundColor="background" transparent="1" />
-  <widget name="key_yellow" position="0,1100" size="0,0" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="white" backgroundColor="background" transparent="1" />
-  <widget name="key_blue" position="0,1100" size="0,0" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="white" backgroundColor="background" transparent="1" />
-</screen>
+  <screen name="MoviePlayer" position="center,center" size="1920,1080" title="InfoBar" backgroundColor="transparent" flags="wfNoBorder">
+    <panel name="mediaplayertemp" />
+    <widget name="state" position="center,center" size="0,0" font="Regular;120" halign="center" foregroundColor="black" borderColor="white" borderWidth="3" backgroundColor="background" transparent="1" zPosition="2" />
+    <widget name="eventname" position="0,0" size="0,0" font="Regular;18" halign="center" foregroundColor="white" backgroundColor="background" transparent="1" zPosition="2" />
+    <widget name="speed" position="0,0" size="0,0" font="Regular;20" halign="left" foregroundColor="white" backgroundColor="background" transparent="1" zPosition="1" />
+    <widget name="statusicon" alphatest="blend" pixmaps="icons/ico_mp_play.png,icons/ico_mp_pause.png,icons/ico_mp_stop.png,icons/ico_mp_rewind.png,icons/ico_mp_forward.png" position="29,862" size="24,24" zPosition="5" transparent="1" />
+    <widget name="key_green" position="0,1100" size="0,0" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="white" backgroundColor="background" transparent="1" />
+    <widget name="key_yellow" position="0,1100" size="0,0" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="white" backgroundColor="background" transparent="1" />
+    <widget name="key_blue" position="0,1100" size="0,0" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="white" backgroundColor="background" transparent="1" />
+  </screen>
   <screen name="MovieSelection" position="0,0" size="1920,1080" title="Select a movie" backgroundColor="background" flags="wfNoBorder">
     <widget source="session.VideoPicture" render="Pig" position="1164,100" zPosition="20" size="742,418" backgroundColor="transparent" transparent="0" cornerRadius="14" />
     <widget source="Title" render="Label" position="76,38" size="863,52" font="Regular; 32" noWrap="1" transparent="1" valign="center" zPosition="1" halign="left" />
