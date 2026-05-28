@@ -13,49 +13,49 @@ msgstr ""
 "X-Generator: Poedit 1.8.3\n"
 
 msgid "%s key imported!"
-msgstr ""
+msgstr "%s 密钥已导入！"
 
 msgid "1 poster"
-msgstr ""
+msgstr "1 张海报"
 
 msgid "Activate/Deactivate ELCINEMA"
-msgstr ""
+msgstr "激活/停用 ELCINEMA"
 
 msgid "Activate/Deactivate GOOGLE"
-msgstr ""
+msgstr "激活/停用 GOOGLE"
 
 msgid "Activate/Deactivate IMDB"
-msgstr ""
+msgstr "激活/停用 IMDB"
 
 msgid "Activate/Deactivate MOLOTOV"
-msgstr ""
+msgstr "激活/停用莫洛托夫"
 
 msgid "Activate/Deactivate PROGRAMMETV"
-msgstr ""
+msgstr "激活/停用 PROGRAMMETV"
 
 msgid "Activate/Deactivate {}"
-msgstr ""
+msgstr "激活/停用 {}"
 
 msgid "Add"
 msgstr "添加"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "所有 png 均已从文件夹中删除！"
 
 msgid "Automatic"
-msgstr ""
+msgstr "自动的"
 
 msgid "Automatic download of backdrop"
-msgstr ""
+msgstr "自动下载背景"
 
 msgid "Automatic download of poster"
-msgstr ""
+msgstr "自动下载海报"
 
 msgid "Automatically fetch backdrop for favorite events based on EPG"
-msgstr ""
+msgstr "根据 EPG 自动获取喜爱的活动背景"
 
 msgid "Automatically fetch posters for favorite events based on EPG"
-msgstr ""
+msgstr "根据EPG自动获取喜爱活动的海报"
 
 msgid "Back"
 msgstr "返回"
@@ -64,7 +64,7 @@ msgid "Backdrop"
 msgstr "背景"
 
 msgid "Backdrop download error: {}"
-msgstr ""
+msgstr "背景下载错误：{}"
 
 msgid "BebasNeue"
 msgstr "BebasNeue"
@@ -89,7 +89,7 @@ msgid "Channel Description Color:"
 msgstr "频道选择样式:"
 
 msgid "Channel Foreground Color:"
-msgstr ""
+msgstr "通道前景色："
 
 #, fuzzy
 msgid "Channel Selected Description Color:"
@@ -158,10 +158,10 @@ msgid "Color Style:"
 msgstr "颜色样式:"
 
 msgid "Configure the delay time (in minutes) before starting the automatic poster download"
-msgstr ""
+msgstr "配置开始自动海报下载之前的延迟时间（以分钟为单位）"
 
 msgid "Crimson"
-msgstr ""
+msgstr "赤红"
 
 #, fuzzy
 msgid "Customization tool for %s Skin"
@@ -171,20 +171,20 @@ msgid "Default"
 msgstr "默认值"
 
 msgid "Del Line"
-msgstr ""
+msgstr "德尔线"
 
 msgid "Delete"
 msgstr "删除"
 
 msgid "Download error: {}"
-msgstr ""
+msgstr "下载错误：{}"
 
 #, fuzzy
 msgid "Download in progress…"
 msgstr "下载进度..."
 
 msgid "Download now backdrop"
-msgstr ""
+msgstr "立即下载背景"
 
 #, fuzzy
 msgid "Download now poster"
@@ -197,25 +197,25 @@ msgid "Edit"
 msgstr "编辑"
 
 msgid "Enable Display Genre icons:"
-msgstr ""
+msgstr "启用显示类型图标："
 
 msgid "Enable Display InfoEvents:"
-msgstr ""
+msgstr "启用显示信息事件："
 
 msgid "Enable Display XMC Poster:"
-msgstr ""
+msgstr "启用显示 XMC 海报："
 
 msgid "Enable Parental Icons:"
-msgstr ""
+msgstr "启用家长图标："
 
 msgid "Enable Rating Star:"
-msgstr ""
+msgstr "启用评级星级："
 
 msgid "Enable or disable caching during event download to speed up repeated searches."
-msgstr ""
+msgstr "在事件下载期间启用或禁用缓存以加快重复搜索的速度。"
 
 msgid "Enable the display of extended event information, including full cast, crew, plot details, and other metadata, in the info widget."
-msgstr ""
+msgstr "在信息小部件中启用扩展事件信息的显示，包括完整演员表、工作人员、情节详细信息和其他元数据。"
 
 msgid "Error by processing the skin file: {}"
 msgstr "处理皮肤文件时出错: {}"
@@ -228,10 +228,10 @@ msgid "Error loading: {}"
 msgstr "下载文件时出错!"
 
 msgid "Error {0}: {1}"
-msgstr ""
+msgstr "错误{0}：{1}"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "错误： {}"
 
 msgid "EventView Style:"
 msgstr "事件视图样式:"
@@ -249,7 +249,7 @@ msgid "File Commander - Addon"
 msgstr "文件管理器-附加文件查看器"
 
 msgid "File {} not found or empty"
-msgstr ""
+msgstr "文件 {} 未找到或为空"
 
 msgid "Green"
 msgstr "绿"
@@ -264,7 +264,7 @@ msgid "HandelGotD"
 msgstr "HandelGotD"
 
 msgid "Import key {0} from {1}?"
-msgstr ""
+msgstr "从 {1} 导入密钥 {0}？"
 
 msgid "Info..."
 msgstr "皮肤信息:"
@@ -306,7 +306,7 @@ msgid "Infobar_OAWeather"
 msgstr "信息栏显示天气"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "INS线"
 
 #, fuzzy
 msgid "Installing updates..."
@@ -317,13 +317,13 @@ msgid "Key empty"
 msgstr "OMDB秘钥空白"
 
 msgid "Key {} successfully loaded!"
-msgstr ""
+msgstr "密钥 {} 已成功加载！"
 
 msgid "KhalidArtboldRegular"
 msgstr "Khalid Artbold Regular"
 
 msgid "LightGray"
-msgstr ""
+msgstr "浅灰色"
 
 #, fuzzy
 msgid "LimeGreen"
@@ -334,13 +334,13 @@ msgid "Load from /tmp/{}key.txt"
 msgstr "从/tmp/omdbkey.txt加载OMDB Apikey"
 
 msgid "Local build ({}) is newer than server build ({})."
-msgstr ""
+msgstr "本地构建 ({}) 比服务器构建 ({}) 新。"
 
 msgid "Location code"
 msgstr "位置代码"
 
 msgid "Lucida"
-msgstr ""
+msgstr "露西达"
 
 msgid "MSN location search result"
 msgstr "MSN位置搜索结果"
@@ -352,10 +352,10 @@ msgid "Magenta"
 msgstr "(黑 - 蓝 - 绿 - 浅蓝 - 浅红 - 品红 - 红 - 晴朗 - 黄 - 紫)"
 
 msgid "Mint"
-msgstr ""
+msgstr "薄荷"
 
 msgid "No active providers enabled"
-msgstr ""
+msgstr "没有启用任何活跃的提供商"
 
 msgid "OFF"
 msgstr "关"
@@ -364,22 +364,22 @@ msgid "OK"
 msgstr "确认"
 
 msgid "OMDB Only"
-msgstr ""
+msgstr "仅限 OMDB"
 
 msgid "ON"
 msgstr "开"
 
 msgid "Off"
-msgstr ""
+msgstr "离开"
 
 msgid "Orange"
-msgstr ""
+msgstr "橙子"
 
 msgid "Personal API key for {}"
-msgstr ""
+msgstr "{} 的个人 API 密钥"
 
 msgid "Pink"
-msgstr ""
+msgstr "粉色的"
 
 msgid "Please enter a valid city name."
 msgstr "请输入有效的城市名称."
@@ -388,7 +388,7 @@ msgid "Please enter a valid location code for the city."
 msgstr "请为城市输入一个有效的位置代码."
 
 msgid "Poster download error: {}"
-msgstr ""
+msgstr "海报下载错误：{}"
 
 msgid "Purple"
 msgstr "紫色"
@@ -400,7 +400,7 @@ msgid "Red"
 msgstr "红"
 
 msgid "Remove all png (poster - backdrop) (OK)"
-msgstr ""
+msgstr "删除所有png（海报-背景）（确定）"
 
 msgid "Restart GUI now?"
 msgstr "现在重启界面吗?"
@@ -443,10 +443,10 @@ msgid "Select Your Font:"
 msgstr "选择您喜欢的字体:"
 
 msgid "Set Time our - minute for Backdrop download"
-msgstr ""
+msgstr "设置背景下载时间 - 分钟"
 
 msgid "Set Time our - minute for Poster download"
-msgstr ""
+msgstr "设定时间 - 分钟下载海报"
 
 msgid "Settings Apikey Server"
 msgstr "设置Apikey服务器"
@@ -456,28 +456,28 @@ msgid "Setup Aglare Skin Info"
 msgstr "Aglare皮肤设置"
 
 msgid "Show icons representing the genre of each event (e.g., action, comedy, drama)"
-msgstr ""
+msgstr "显示代表每个事件类型的图标（例如动作、喜剧、戏剧）"
 
 msgid "Show parental guidance icons on events to indicate content rating and age suitability."
-msgstr ""
+msgstr "在活动中显示家长指导图标，以指示内容分级和年龄适合性。"
 
 msgid "Show poster from movie in local folder"
-msgstr ""
+msgstr "在本地文件夹中显示电影海报"
 
 msgid "Sienna"
-msgstr ""
+msgstr "赭色"
 
 msgid "Skin Style:"
 msgstr "皮肤样式:"
 
 msgid "SnowWhite"
-msgstr ""
+msgstr "白雪公主"
 
 msgid "Start downloading backdrop immediately"
-msgstr ""
+msgstr "立即开始下载背景"
 
 msgid "Start downloading poster immediately"
-msgstr ""
+msgstr "立即开始下载海报"
 
 #, fuzzy
 msgid "SteelBlue"
@@ -502,35 +502,35 @@ msgid "System"
 msgstr "系统设置"
 
 msgid "TMDB Only"
-msgstr ""
+msgstr "仅TMDB"
 
 msgid "Teal"
-msgstr ""
+msgstr "青色"
 
 #, fuzzy
 msgid "The file %s is empty."
 msgstr "TMDB Apikey是空的!"
 
 msgid "The file %s was not found."
-msgstr ""
+msgstr "未找到文件 %s。"
 
 msgid "This operation enable the display of rating stars for events, based on the selected rating source."
-msgstr ""
+msgstr "此操作可以根据所选的评级源显示事件的评级星级。"
 
 msgid "This operation remove all png from folder device (Poster-Backdrop)"
-msgstr ""
+msgstr "此操作从文件夹设备中删除所有 png（海报背景）"
 
 msgid "Tomato"
-msgstr ""
+msgstr "番茄"
 
 msgid "Update URL not initialised – open the plugin once from the Plugins menu first."
-msgstr ""
+msgstr "更新 URL 未初始化 – 首先从插件菜单中打开插件一次。"
 
 msgid "Update check failed: {}"
-msgstr ""
+msgstr "更新检查失败：{}"
 
 msgid "Update package not found!"
-msgstr ""
+msgstr "未找到更新包！"
 
 msgid "VolumeBar Style:"
 msgstr "音量条风格:"
@@ -542,7 +542,7 @@ msgid "WeatherPlugin: List of Entries"
 msgstr "天气插件：条目列表"
 
 msgid "White"
-msgstr ""
+msgstr "白色的"
 
 #, fuzzy
 msgid "YellowGreen"

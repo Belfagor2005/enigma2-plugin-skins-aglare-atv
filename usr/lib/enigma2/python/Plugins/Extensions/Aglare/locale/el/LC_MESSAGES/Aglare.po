@@ -29,49 +29,49 @@ msgstr ""
 "X-Poedit-SearchPath-6: addons/WeatherSearch.py\n"
 
 msgid "%s key imported!"
-msgstr ""
+msgstr "Έγινε εισαγωγή του κλειδιού %s!"
 
 msgid "1 poster"
 msgstr "1 αφίσα"
 
 msgid "Activate/Deactivate ELCINEMA"
-msgstr ""
+msgstr "Ενεργοποίηση/Απενεργοποίηση ELCINEMA"
 
 msgid "Activate/Deactivate GOOGLE"
-msgstr ""
+msgstr "Ενεργοποίηση/Απενεργοποίηση GOOGLE"
 
 msgid "Activate/Deactivate IMDB"
-msgstr ""
+msgstr "Ενεργοποίηση/απενεργοποίηση IMDB"
 
 msgid "Activate/Deactivate MOLOTOV"
-msgstr ""
+msgstr "Ενεργοποίηση/Απενεργοποίηση MOLOTOV"
 
 msgid "Activate/Deactivate PROGRAMMETV"
-msgstr ""
+msgstr "Ενεργοποίηση/Απενεργοποίηση PROGRAMMETV"
 
 msgid "Activate/Deactivate {}"
-msgstr ""
+msgstr "Ενεργοποίηση/Απενεργοποίηση {}"
 
 msgid "Add"
 msgstr "Προσθήκη"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Όλα τα png αφαιρούνται από το φάκελο!"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgid "Automatic download of backdrop"
-msgstr ""
+msgstr "Αυτόματη λήψη του φόντου"
 
 msgid "Automatic download of poster"
-msgstr ""
+msgstr "Αυτόματη λήψη αφίσας"
 
 msgid "Automatically fetch backdrop for favorite events based on EPG"
-msgstr ""
+msgstr "Αυτόματη λήψη σκηνικού για αγαπημένα συμβάντα με βάση το EPG"
 
 msgid "Automatically fetch posters for favorite events based on EPG"
-msgstr ""
+msgstr "Αυτόματη λήψη αφισών για αγαπημένα συμβάντα με βάση το EPG"
 
 msgid "Back"
 msgstr "Πίσω"
@@ -80,7 +80,7 @@ msgid "Backdrop"
 msgstr "Σκηνικό"
 
 msgid "Backdrop download error: {}"
-msgstr ""
+msgstr "Σφάλμα λήψης φόντου: {}"
 
 msgid "BebasNeue"
 msgstr "BebasNeue"
@@ -164,7 +164,7 @@ msgid "Color Style:"
 msgstr "Στυλ χρωμάτων:"
 
 msgid "Configure the delay time (in minutes) before starting the automatic poster download"
-msgstr ""
+msgstr "Διαμορφώστε τον χρόνο καθυστέρησης (σε λεπτά) πριν ξεκινήσετε την αυτόματη λήψη αφίσας"
 
 msgid "Crimson"
 msgstr "Βυσσινί"
@@ -183,14 +183,14 @@ msgid "Delete"
 msgstr "Διαγραφή"
 
 msgid "Download error: {}"
-msgstr ""
+msgstr "Σφάλμα λήψης: {}"
 
 #, fuzzy
 msgid "Download in progress…"
 msgstr "Λήψη σε εξέλιξη…"
 
 msgid "Download now backdrop"
-msgstr ""
+msgstr "Λήψη φόντου τώρα"
 
 #, fuzzy
 msgid "Download now poster"
@@ -203,28 +203,28 @@ msgid "Edit"
 msgstr "Επεξεργασία"
 
 msgid "Enable Display Genre icons:"
-msgstr ""
+msgstr "Ενεργοποίηση εικονιδίων Είδος εμφάνισης:"
 
 msgid "Enable Display InfoEvents:"
-msgstr ""
+msgstr "Ενεργοποίηση Display InfoEvents:"
 
 msgid "Enable Display XMC Poster:"
-msgstr ""
+msgstr "Ενεργοποίηση αφίσας Display XMC:"
 
 msgid "Enable Parental Icons:"
-msgstr ""
+msgstr "Ενεργοποίηση γονικών εικονιδίων:"
 
 msgid "Enable Rating Star:"
-msgstr ""
+msgstr "Ενεργοποίηση Rating Star:"
 
 msgid "Enable or disable caching during event download to speed up repeated searches."
-msgstr ""
+msgstr "Ενεργοποιήστε ή απενεργοποιήστε την προσωρινή αποθήκευση κατά τη λήψη συμβάντων για να επιταχύνετε τις επαναλαμβανόμενες αναζητήσεις."
 
 msgid "Enable the display of extended event information, including full cast, crew, plot details, and other metadata, in the info widget."
-msgstr ""
+msgstr "Ενεργοποιήστε την εμφάνιση εκτεταμένων πληροφοριών συμβάντων, συμπεριλαμβανομένων των πλήρους ηθοποιών, του πληρώματος, των λεπτομερειών της πλοκής και άλλων μεταδεδομένων, στο γραφικό στοιχείο πληροφοριών."
 
 msgid "Error by processing the skin file: {}"
-msgstr ""
+msgstr "Σφάλμα κατά την επεξεργασία του αρχείου δέρματος: {}"
 
 msgid "Error downloading files!"
 msgstr "Σφάλμα κατά τη λήψη των αρχείων!"
@@ -234,10 +234,10 @@ msgid "Error loading: {}"
 msgstr "Σφάλμα κατά τη λήψη των αρχείων!"
 
 msgid "Error {0}: {1}"
-msgstr ""
+msgstr "Σφάλμα {0}: {1}"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Σφάλμα: {}"
 
 msgid "EventView Style:"
 msgstr "Στυλ προβολής προγραμμάτων:"
@@ -255,7 +255,7 @@ msgid "File Commander - Addon"
 msgstr "File Commander - Πρόσθετο"
 
 msgid "File {} not found or empty"
-msgstr ""
+msgstr "Το αρχείο {} δεν βρέθηκε ή κενό"
 
 msgid "Green"
 msgstr "Πράσινο"
@@ -270,7 +270,7 @@ msgid "HandelGotD"
 msgstr "HandelGotD"
 
 msgid "Import key {0} from {1}?"
-msgstr ""
+msgstr "Εισαγωγή κλειδιού {0} από {1};"
 
 msgid "Info..."
 msgstr "Πληροφορίες..."
@@ -321,7 +321,7 @@ msgid "Key empty"
 msgstr "Το TMDB ApiKey είναι κενό!"
 
 msgid "Key {} successfully loaded!"
-msgstr ""
+msgstr "Το κλειδί {} φορτώθηκε με επιτυχία!"
 
 msgid "KhalidArtboldRegular"
 msgstr "KhalidArtboldRegular"
@@ -337,13 +337,13 @@ msgid "Load from /tmp/{}key.txt"
 msgstr "Φόρτωση TMDB ApiKey από το /tmp/tmdbkey.txt"
 
 msgid "Local build ({}) is newer than server build ({})."
-msgstr ""
+msgstr "Η τοπική έκδοση ({}) είναι νεότερη από την έκδοση διακομιστή ({})."
 
 msgid "Location code"
 msgstr "Κωδικός τοποθεσίας"
 
 msgid "Lucida"
-msgstr ""
+msgstr "Λουσίδα"
 
 msgid "MSN location search result"
 msgstr "Αποτέλεσμα αναζήτησης τοποθεσίας MSN"
@@ -358,7 +358,7 @@ msgid "Mint"
 msgstr "Μέντα"
 
 msgid "No active providers enabled"
-msgstr ""
+msgstr "Δεν έχουν ενεργοποιηθεί ενεργοί πάροχοι"
 
 msgid "OFF"
 msgstr "Απενεργοποίηση"
@@ -367,19 +367,19 @@ msgid "OK"
 msgstr "Εντάξει"
 
 msgid "OMDB Only"
-msgstr ""
+msgstr "Μόνο OMDB"
 
 msgid "ON"
 msgstr "Ενεργοποίηση"
 
 msgid "Off"
-msgstr ""
+msgstr "Μακριά από"
 
 msgid "Orange"
 msgstr "Πορτοκαλί"
 
 msgid "Personal API key for {}"
-msgstr ""
+msgstr "Προσωπικό κλειδί API για {}"
 
 msgid "Pink"
 msgstr "Ροζ"
@@ -391,7 +391,7 @@ msgid "Please enter a valid location code for the city."
 msgstr "Παρακαλώ εισάγετε έναν έγκυρο κωδικό τοποθεσίας για την πόλη."
 
 msgid "Poster download error: {}"
-msgstr ""
+msgstr "Σφάλμα λήψης αφίσας: {}"
 
 msgid "Purple"
 msgstr "Μοβ"
@@ -403,7 +403,7 @@ msgid "Red"
 msgstr "Κόκκινο"
 
 msgid "Remove all png (poster - backdrop) (OK)"
-msgstr ""
+msgstr "Κατάργηση όλων των png (αφίσα - φόντο) (ΟΚ)"
 
 msgid "Restart GUI now?"
 msgstr "Να γίνει επανεκκίνηση του γραφικού περιβάλλοντος τώρα;"
@@ -442,25 +442,25 @@ msgid "Select Your Font:"
 msgstr "Επιλογή γραμματοσειράς:"
 
 msgid "Set Time our - minute for Backdrop download"
-msgstr ""
+msgstr "Ορίστε την ώρα μας - λεπτό για λήψη Backdrop"
 
 msgid "Set Time our - minute for Poster download"
-msgstr ""
+msgstr "Ορίστε την ώρα μας - λεπτό για λήψη αφίσας"
 
 msgid "Settings Apikey Server"
 msgstr "Ρυθμίσεις διακομιστή Apikey"
 
 msgid "Setup Aglare Skin Info"
-msgstr ""
+msgstr "Ρύθμιση Aglare Skin Info"
 
 msgid "Show icons representing the genre of each event (e.g., action, comedy, drama)"
-msgstr ""
+msgstr "Εμφάνιση εικονιδίων που αντιπροσωπεύουν το είδος κάθε εκδήλωσης (π.χ. δράση, κωμωδία, δράμα)"
 
 msgid "Show parental guidance icons on events to indicate content rating and age suitability."
-msgstr ""
+msgstr "Εμφάνιση εικονιδίων γονικής καθοδήγησης σε συμβάντα για να υποδείξετε τη βαθμολογία περιεχομένου και την καταλληλότητα ηλικίας."
 
 msgid "Show poster from movie in local folder"
-msgstr ""
+msgstr "Εμφάνιση αφίσας από την ταινία στον τοπικό φάκελο"
 
 msgid "Sienna"
 msgstr "Καφέ σιένα"
@@ -472,10 +472,10 @@ msgid "SnowWhite"
 msgstr "Λευκό χιονιού"
 
 msgid "Start downloading backdrop immediately"
-msgstr ""
+msgstr "Ξεκινήστε αμέσως τη λήψη του φόντου"
 
 msgid "Start downloading poster immediately"
-msgstr ""
+msgstr "Ξεκινήστε αμέσως τη λήψη της αφίσας"
 
 msgid "SteelBlue"
 msgstr "Γκριζογάλανο"
@@ -499,7 +499,7 @@ msgid "System"
 msgstr "Σύστημα"
 
 msgid "TMDB Only"
-msgstr ""
+msgstr "Μόνο TMDB"
 
 msgid "Teal"
 msgstr "Γαλαζοπράσινο"
@@ -509,25 +509,25 @@ msgid "The file %s is empty."
 msgstr "Το TMDB ApiKey είναι κενό!"
 
 msgid "The file %s was not found."
-msgstr ""
+msgstr "Το αρχείο %s δεν βρέθηκε."
 
 msgid "This operation enable the display of rating stars for events, based on the selected rating source."
-msgstr ""
+msgstr "Αυτή η λειτουργία επιτρέπει την εμφάνιση αστεριών αξιολόγησης για συμβάντα, με βάση την επιλεγμένη πηγή αξιολόγησης."
 
 msgid "This operation remove all png from folder device (Poster-Backdrop)"
-msgstr ""
+msgstr "Αυτή η λειτουργία αφαιρεί όλα τα png από τη συσκευή φακέλου (Poster-Backdrop)"
 
 msgid "Tomato"
 msgstr "Χρώμα ντομάτας"
 
 msgid "Update URL not initialised – open the plugin once from the Plugins menu first."
-msgstr ""
+msgstr "Η ενημέρωση URL δεν έχει αρχικοποιηθεί – ανοίξτε πρώτα την προσθήκη μία φορά από το μενού Προσθήκες."
 
 msgid "Update check failed: {}"
-msgstr ""
+msgstr "Ο έλεγχος ενημέρωσης απέτυχε: {}"
 
 msgid "Update package not found!"
-msgstr ""
+msgstr "Το πακέτο ενημέρωσης δεν βρέθηκε!"
 
 msgid "VolumeBar Style:"
 msgstr "Στυλ μπάρας έντασης ήχου:"
