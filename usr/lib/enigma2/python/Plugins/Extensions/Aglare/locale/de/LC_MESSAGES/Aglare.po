@@ -241,10 +241,10 @@ msgid "File {} not found or empty"
 msgstr "Datei {} nicht gefunden oder leer"
 
 msgid "Green"
-msgstr ""
+msgstr "Grün"
 
 msgid "Green2"
-msgstr ""
+msgstr "Grün2"
 
 msgid "Greta"
 msgstr ""
@@ -253,7 +253,7 @@ msgid "HandelGotD"
 msgstr ""
 
 msgid "Import key {0} from {1}?"
-msgstr ""
+msgstr "Schlüssel {0} aus {1} importieren?"
 
 msgid "Info..."
 msgstr ""
