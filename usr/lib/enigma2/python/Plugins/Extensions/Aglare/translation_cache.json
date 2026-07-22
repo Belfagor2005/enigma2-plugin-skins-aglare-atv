@@ -15865,5 +15865,8 @@
   "abc45edea0be901c07726ac397d23809": "Greta",
   "87bd73b64b9ec701cc4648e7fe7cee5d": "HandelGotD",
   "454342a2ed8e323483a922c6f4f38936": "Schlüssel {0} aus {1} importieren?",
-  "0727ff11a476fa6b559e17f17445629a": "Info..."
+  "0727ff11a476fa6b559e17f17445629a": "Info...",
+  "8a98e0e349ed0f03ffe39c3e62d45d98": "Error {0}: {1}",
+  "879769d29638dfde7d0bb2cdfbb338e3": "Import key {0} from {1}?",
+  "801b84c719bae83792dfea5e07706b8a": "Error {0}: {1}"
 }
