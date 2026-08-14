@@ -491,7 +491,7 @@ msgid "Tomato"
 msgstr "Таматны"
 
 msgid "Update URL not initialised  open the plugin once from the Plugins menu first."
-msgstr "URL-адрас абнаўлення не ініцыялізаваны, спачатку адкрыйце ўбудову адзін раз з меню "Убудовы"."
+msgstr "URL-адрас абнаўлення не ініцыялізаваны, спачатку адкрыйце ўбудову адзін раз з меню \\\\\\\"Убудовы\\\\\\\"."
 
 msgid "Update check failed: {}"
 msgstr "Памылка праверкі абнаўлення: {}"
